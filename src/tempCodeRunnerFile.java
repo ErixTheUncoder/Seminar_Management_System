@@ -1,0 +1,1 @@
+frame.setTitle("First window");//Title

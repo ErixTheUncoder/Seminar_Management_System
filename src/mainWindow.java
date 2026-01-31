@@ -1,33 +1,28 @@
-import java.awt.Color;
 import javax.swing.*;
 
 public class mainWindow extends JFrame
 {
-
   public mainWindow(){
-    JPanel mainPanel = new JPanel();
-    mainPanel.setBackground(Color.WHITE);
+  //Create frame for mainWindow
+  JFrame mainWindow = new JFrame();
 
-    this.add(mainPanel);
+  //setup panel for textbox
+  JPanel textbox = new JPanel();
+  JLabel chooseRoleStr = new JLabel("Choose your role");
+  textbox.add(chooseRoleStr); //Add JLabel text into panel
+  this.add(textbox);
 
-    //Label
-    JLabel label = new JLabel();
-    label.setText("somethingsoemthing");
+  //TODO: setup panel for button
 
-    mainPanel.add(label); //add the label to the window
 
-    //Button
-    JButton button = new JButton();
-    button.setBounds(200,100,100,50);
-    
-    mainPanel.add(button);
+
 
 
   //Setup window
     this.setTitle("Seminar Management System"); //Set Title
     this.setSize(720,640); //Set the window size
     this.setVisible(true); //Make the window visible
-    this.setResizable(false); //Make the window not resizable
+    this.setResizable(true); //Make the window resizable
     this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //Close the application instead of hiding
   }
     public static void main(String[] args)

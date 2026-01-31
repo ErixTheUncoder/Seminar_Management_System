@@ -16,7 +16,15 @@ public class mainWindow extends JFrame
 
     mainPanel.add(label); //add the label to the window
 
-    this.setTitle("Hello World"); //Set Title
+    //Button
+    JButton button = new JButton();
+    button.setBounds(200,100,100,50);
+    
+    mainPanel.add(button);
+
+
+  //Setup window
+    this.setTitle("Seminar Management System"); //Set Title
     this.setSize(720,640); //Set the window size
     this.setVisible(true); //Make the window visible
     this.setResizable(false); //Make the window not resizable

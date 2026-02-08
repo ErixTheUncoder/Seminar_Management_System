@@ -1,0 +1,6 @@
+studentID,name,email,password,course
+STU001,Alice Johnson,alice@email.com,pass123,Computer Science
+STU002,Bob Wilson,bob@email.com,pass123,Information Technology
+STU003,Carol Martinez,carol@email.com,pass123,Software Engineering
+STU004,David Chen,david@email.com,pass123,Computer Science
+STU005,Emma Brown,emma@email.com,pass123,Data Science

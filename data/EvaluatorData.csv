@@ -1,0 +1,5 @@
+evaluatorID,name,email,password,faculty,expertise
+EVAL001,Dr. Smith,smith@email.com,pass456,Engineering,Java Programming
+EVAL002,Dr. Lee,lee@email.com,pass456,Computer Science,Machine Learning
+EVAL003,Dr. Garcia,garcia@email.com,pass456,Information Technology,Databases
+EVAL004,Dr. Patel,patel@email.com,pass456,Engineering,Software Architecture

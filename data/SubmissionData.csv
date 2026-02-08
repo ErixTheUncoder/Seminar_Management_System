@@ -1,0 +1,4 @@
+submissionID,sessionID,studentID,title,abstract,supervisor,filepath,preferredType,evaluatorID,boardID,clarityScore,methodologyScore,resultsScore,presentationScore,comments,peopleVote,evaluationStatus
+SUB001,SES001,STU001,Machine Learning for Healthcare,This research explores the application of ML algorithms in healthcare diagnostics,Dr. Anderson,/files/sub001.pdf,POSTER,EVAL001,BOARD001,8,9,8,9,Excellent research with clear methodology,5,COMPLETED
+SUB002,SES002,STU002,Cloud Computing Architecture,A study on microservices architecture in cloud environments,Dr. Kumar,/files/sub002.pptx,ORAL,EVAL002,,7,8,7,8,Good presentation with room for improvement,3,COMPLETED
+SUB003,SES001,STU001,AI,lorem ipsum,Dr Ali,,POSTER,,,0,0,0,0,,0,PENDING

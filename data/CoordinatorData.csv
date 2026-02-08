@@ -1,0 +1,3 @@
+staffID,name,email,password,faculty,officeContact
+STAFF001,Prof. Brown,brown@email.com,pass789,Science,Room 205
+STAFF002,Prof. White,white@email.com,pass789,Engineering,Room 301

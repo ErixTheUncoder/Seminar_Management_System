@@ -1,0 +1,16 @@
+D:\downloads\seminar-system\gui\AppGUI.java
+D:\downloads\seminar-system\gui\CoordinatorDashboard.java
+D:\downloads\seminar-system\gui\EvaluatorDashboard.java
+D:\downloads\seminar-system\gui\LoginScreen.java
+D:\downloads\seminar-system\gui\StudentDashboard.java
+D:\downloads\seminar-system\model\Board.java
+D:\downloads\seminar-system\model\Coordinator.java
+D:\downloads\seminar-system\model\EvaluationStat.java
+D:\downloads\seminar-system\model\Evaluator.java
+D:\downloads\seminar-system\model\Role.java
+D:\downloads\seminar-system\model\Session.java
+D:\downloads\seminar-system\model\SessionType.java
+D:\downloads\seminar-system\model\Student.java
+D:\downloads\seminar-system\model\Submission.java
+D:\downloads\seminar-system\model\User.java
+D:\downloads\seminar-system\service\FileService.java

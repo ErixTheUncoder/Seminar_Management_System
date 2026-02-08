@@ -1,0 +1,6 @@
+boardID,orientation,paperSize,dimensions,material,isAvailable
+BOARD001,Portrait,A0,841 x 1189 mm,Foamcore,false
+BOARD002,Landscape,A1,594 x 841 mm,Cork,true
+BOARD003,Portrait,A0,841 x 1189 mm,Foamcore,true
+BOARD004,Landscape,A1,594 x 841 mm,Cork,true
+BOARD005,Portrait,A0,841 x 1189 mm,Magnetic,true
